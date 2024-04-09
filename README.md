@@ -8,4 +8,3 @@
 <a href="https://discord.gg/#0973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0973" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;![rajbahakdanyu's Stats](https://github-readme-stats.vercel.app/api?username=rajbahakdanyu&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)</p>

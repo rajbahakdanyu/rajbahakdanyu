@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danyu Rajbahak</h1>
-<h3 align="center">Professional bug-maker, amateur magician — I turn bugs into features.</h3>
+<h3 align="center">Professional bug-maker, amateur magician - I turn bugs into features.</h3>
 <h3 align="center">🧠 Learning • 💪 Lifting • 💻 Shipping</h3>
 
 <div align="center">
